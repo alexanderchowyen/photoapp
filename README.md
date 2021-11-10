@@ -10,4 +10,4 @@
 
 ## Credit
 
-Full stack social media app
+A photo app allowing users to log in and interact with post by liking and commenting
